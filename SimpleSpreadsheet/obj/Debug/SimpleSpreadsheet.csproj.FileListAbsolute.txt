@@ -1,0 +1,6 @@
+D:\Dev\SimpleSpreadsheet\SimpleSpreadsheet\bin\Debug\SimpleSpreadsheet.exe.config
+D:\Dev\SimpleSpreadsheet\SimpleSpreadsheet\bin\Debug\SimpleSpreadsheet.exe
+D:\Dev\SimpleSpreadsheet\SimpleSpreadsheet\bin\Debug\SimpleSpreadsheet.pdb
+D:\Dev\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.csprojResolveAssemblyReference.cache
+D:\Dev\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.exe
+D:\Dev\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.pdb
